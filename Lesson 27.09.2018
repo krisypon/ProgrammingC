@@ -1,0 +1,7 @@
+/* gedit name.c */
+
+#include <stdio.h>
+
+main() {
+
+}
